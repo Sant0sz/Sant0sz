@@ -13,24 +13,6 @@ Olá! 👋 Meu nome é João Vitor, também conhecido como Kuro por alguns e San
 - [x] Desenvolver habilidades em análise de dados com Pandas
 - [x] Desenvolver projetos completos
       
-## Tópicos Estudados
-### Básico
-- [x] Variáveis e tipos de dados
-- [ ] Estruturas condicionais
-- [ ] Loops e iterações
-
-### Intermediário
-- [ ] Funções
-- [ ] Manipulação de arquivos
-- [ ] Tratamento de exceções
-
-### Avançado
-- [ ] Programação assíncrona
-- [ ] Decoradores
-- [ ] Metaprogramação
-
 ## Progresso Atual
 📅 Estudando atualmente: 🐍 Python  
 💡 Próximo objetivo: DevOps
-
-🎯 Meta a longo prazo: [Trabalhar no ramo]
